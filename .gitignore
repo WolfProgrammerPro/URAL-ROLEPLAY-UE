@@ -1,0 +1,17 @@
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+Build/
+
+.vs/
+.vscode/
+
+*.tmp
+*.log
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.db
